@@ -22,7 +22,13 @@
 # print(c)
 
 # subtract
-a=67
-b=74
-c=a-b
+# a=67
+# b=74
+# c=a-b
+# print(c)
+
+# multiplication
+a=5
+b=7
+c=5*7
 print(c)
