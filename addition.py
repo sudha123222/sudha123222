@@ -28,7 +28,13 @@
 # print(c)
 
 # multiplication
-a=5
-b=7
-c=5*7
+# a=5
+# b=7
+# c=5*7
+# print(c)
+
+# division
+a=4
+b=2
+c=a/b
 print(c)
